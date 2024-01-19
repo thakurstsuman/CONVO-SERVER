@@ -1,1 +1,1 @@
-web: python SATISH.py
+web: bundle exec thin start -p $PORT
